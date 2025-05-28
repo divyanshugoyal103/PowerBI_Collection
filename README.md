@@ -9,4 +9,4 @@ Diverse Topics: Explore dashboards covering a spectrum of topics, from sales ana
 Continuous Expansion: This repository is a dynamic project with plans for continuous expansion. Anticipate the addition of new dashboards exploring different facets of data analytics and visualization.
 
 Check Out My Work
-Explore my Power BI profile and visualizations on Power BI Service:
+
